@@ -1,0 +1,23 @@
+libreria panda dataframe
+datos1 = df [["id","programa"]]
+print(datos1)
+
+
+
+print(type(datos1))
+print(type(df["nota"]))
+
+
+print(df.tail())
+
+
+print(df.head())
+
+
+
+
+df.describe()
+
+df.info()
+
+df.shape #como es la forma de los datos
